@@ -51,7 +51,7 @@ And then for *streamlit*,
   May you create awesome apps!
 
   This will automatically pop up on your default browser on this address- 'http://localhost:8501/'
-  
+
   image.png
 
 
