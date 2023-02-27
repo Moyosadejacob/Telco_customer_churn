@@ -1,0 +1,2 @@
+Requirement already satisfied: jinja2 in c:\users\omistaja\anaconda3\envs\redzone_proj\lib\site-packages (3.1.2)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\omistaja\anaconda3\envs\redzone_proj\lib\site-packages (from jinja2) (2.1.2)
