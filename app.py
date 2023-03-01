@@ -63,4 +63,4 @@ save_model_predictor = TabularPredictor.load(save_path)
 submit = st.button("CLICK TO PREDICT CUSTOMER CHURN")
 if submit:
     customer_churn_prediction=save_model_predictor.predict(input_data)[0]
-    st.write(f"The Telco customer churn is: {customer_churn_prediction}")
+    st.write(f"The Telco Customer Churn is: {customer_churn_prediction}")
