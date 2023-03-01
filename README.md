@@ -78,5 +78,5 @@ Telco Customer Churn
 ## Model Evaluation
 
 ## Model Deployment
-deployment will be done 'streamlit'
+deployment will be done on 'streamlit'
 
